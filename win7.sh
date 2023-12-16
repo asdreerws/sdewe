@@ -1,6 +1,6 @@
 apt-get update
 echo "同学们，朋友们，罗叔变戏法开始了！~现在在下载Windows文件中，请等候约1分钟左右时间..."
-wget -O win7.img https://link.jscdn.cn/sharepoint/aHR0cHM6Ly9qb2hubHVvZ2EtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvb25lZHJpdmVfdW5jbGVsdW9fY29tL0VWYlRBSXhtdmU1UHQ1dnhxMlZKMms0QlZISWZ4bWFZdVdTVmhKTFNtMmlFalE_ZT1aY1ZGbDc.img
+wget -O win7.img https://app.vagrantup.com/thuonghai2711/boxes/WindowsQCOW2/versions/1.0.4/providers/qemu.box
 echo "朋友们！下载ngrok远程连接组件中..."
 wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip > /dev/null 2>&1
 unzip ngrok-stable-linux-amd64.zip > /dev/null 2>&1
